@@ -1,0 +1,13 @@
+net_v=newrb(vs,vt,0.05,0.01);
+net_g=newrb(gs,gt,0.05,0.01);
+
+
+net_v=newrb(vs,vt,0.005,0.01);
+net_g=newrb(gs,gt,0.05,0.01);
+
+
+net_v=newrb(vs,vt,0.0005,0.01);
+net_g=newrb(gs,gt,0.05,0.01);
+
+net_v=newrb(vs,vt,0.0005,0.01);
+net_g=newrb(gs,gt,0.005,0.01);
